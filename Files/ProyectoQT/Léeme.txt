@@ -1,0 +1,2 @@
+#Esta carpeta contiene un proyecto para ser abierto en QTCreator
+#Ubuntu
